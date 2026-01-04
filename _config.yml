@@ -34,7 +34,7 @@ color:
 # Footer settings
 footer:
   copyright: Arthur Velwest
-  location: Jersey City // Remote
+  location: Location
   social: Around the Web
   credits: Credits
 
@@ -44,12 +44,12 @@ social:
     url: https://instagram.com/thearthursh0w
 
 # Postal address (add as many lines as necessary)
-# address:
-#   - line: 3481 Melrose Place
-#   - line: Beverly Hills, CA 90210
+address:
+  - line: Play in person in Jersey City or NYC,
+  - line: or remotely anywhere via Roll20.
 
 # Credits content
-# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Site created by @junefish using the theme <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a>.'
 
 # Build settings
 markdown: kramdown
