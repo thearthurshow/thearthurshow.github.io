@@ -17,5 +17,5 @@ description: |
   all of the characters will die. In this, <i>Ten Candles</i> is not a game about "winning" or beating the
   monsters. Instead, it is a game about what happens in the dark, and about those who try to survive within it.
   It is a game about being pushed to the brink of madness and despair, searching for hope in a hopeless world,
-  and trying to do something meaningful with your final few hours left.
+  and trying to do something meaningful with your final hours.
 ---
