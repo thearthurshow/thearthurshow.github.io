@@ -110,6 +110,14 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
+header .profile-image {
+    display: block;
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    margin: 0 auto 20px;
+}
+
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
@@ -122,6 +130,10 @@ header .intro-text .skills {
 
     header .intro-text .skills {
         font-size: 1.75em;
+    }
+
+    header .profile-image {
+        max-width: 300px;
     }
 }
 
