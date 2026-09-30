@@ -1,0 +1,21 @@
+---
+layout: default
+modal-id: 5
+order: 5
+title: Ten Candles
+img: 10c.webp
+alt: image-alt
+description: |
+  <a href="https://cavalrygames.com/ten-candles" target="_blank" rel="noopener noreferrer"><i>Ten Candles</i></a>
+  is a zero-prep tabletop storytelling game designed for 2-4 hour one-shot sessions of tragic horror.
+  It is best played in person with one GM and 3-5 players, by the light of ten tealight candles which
+  provide atmosphere, act as a countdown timer for the game, and allow you to literally burn your character
+  sheet away as you play.
+
+  <i>Ten Candles</i> is described as a "tragic horror" game rather than survival horror for one main reason:
+  in <i>Ten Candles</i> there are no survivors. In the final scene of the game, when only one candle remains,
+  all of the characters will die. In this, <i>Ten Candles</i> is not a game about "winning" or beating the
+  monsters. Instead, it is a game about what happens in the dark, and about those who try to survive within it.
+  It is a game about being pushed to the brink of madness and despair, searching for hope in a hopeless world,
+  and trying to do something meaningful with your final few hours left.
+---
