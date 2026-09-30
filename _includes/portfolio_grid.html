@@ -8,15 +8,17 @@
       </div>
     </div>
     <div class="portfolio-flex-row">
-      {% for post in site.posts %}
+      {% assign games = site.games | sort: "order" %}
+
+      {% for game in games %}
       <div class="portfolio-flex-item portfolio-item">
-        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+        <a href="#portfolioModal-{{ game.modal-id }}" class="portfolio-link" data-toggle="modal">
           <div class="caption">
             <div class="caption-content">
               <i class="fa fa-search-plus fa-3x"></i>
             </div>
           </div>
-          <img src="img/games/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+          <img src="img/games/{{ game.img }}" class="img-responsive" alt="{{ game.alt }}">
         </a>
       </div>
       {% endfor %}

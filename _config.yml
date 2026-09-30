@@ -55,10 +55,15 @@ credits: 'Site created by @junefish using the theme <a href="https://github.com/
 markdown: kramdown
 permalink: pretty
 
-#for posts
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: ""
+#for games
+
+collections:
+  games:
+    output: true
+
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "games"
+#     values:
+#       permalink: ""
