@@ -448,6 +448,14 @@ footer .footer-below {
     cursor: pointer;
 }
 
+.portfolio-modal .game-description {
+    text-align: justify;
+}
+
+.portfolio-modal .game-description p {
+    margin-bottom: 20px;
+}
+
 .portfolio-modal .close-modal:hover {
     opacity: .3;
 }

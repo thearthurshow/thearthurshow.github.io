@@ -30,7 +30,9 @@
               alt="{{ game.alt }}">
 
             {% if game.description %}
-              <p>{{ game.description }}</p>
+             <div class="game-description">
+                {{ game.description | markdownify }}
+              </div>
             {% endif %}
 
             <button
