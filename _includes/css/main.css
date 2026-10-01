@@ -106,9 +106,23 @@ header .intro-text .name {
     /* customized */
 }
 
+header .intro-text {
+    max-width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
+}
+
+header .intro-text .subtitle {
+    display: block;
+    font-size: 3rem;
+    line-height: 1.2;
+    font-weight: 700;
+    margin-top: 1rem;
 }
 
 header .profile-image {
@@ -125,6 +139,12 @@ header .profile-image {
         padding-bottom: 100px;
     }
 
+    header .intro-text {
+        max-width: 100%;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
     header .intro-text .name {
         font-size: 4.75em;
     }
@@ -132,6 +152,11 @@ header .profile-image {
     header .intro-text .skills {
         font-size: 1.75em;
     }
+
+    header .intro-text .subtitle {
+        font-size: 4rem;
+    }
+}
 
     header .profile-image {
         max-width: 300px;
