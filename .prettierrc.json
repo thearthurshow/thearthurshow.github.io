@@ -4,8 +4,11 @@
     {
       "files": ["_includes/css/*.css"],
       "options": {
-        "parser": "liquid-html"
+        "parser": "liquid-html",
+        "printWidth": 60,
+        "singleAttributePerLine": false
       }
     }
   ]
 }
+w

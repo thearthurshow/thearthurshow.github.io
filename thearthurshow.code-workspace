@@ -6,8 +6,14 @@
   ],
   "settings": {
     "files.associations": {
-      "_includes/css/*.css": "liquid",
+      "_includes/css/*.css": "css",
     },
+
+    "[css]": {
+      "editor.defaultFormatter": "vscode.css-language-features",
+      "editor.formatOnSave": true,
+    },
+
     "[liquid]": {
       "editor.defaultFormatter": "Shopify.theme-check-vscode",
       "editor.formatOnSave": true,
