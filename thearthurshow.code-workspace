@@ -11,12 +11,12 @@
 
     "[css]": {
       "editor.defaultFormatter": "vscode.css-language-features",
-      "editor.formatOnSave": true,
+      "editor.formatOnSave": false,
     },
 
     "[liquid]": {
       "editor.defaultFormatter": "Shopify.theme-check-vscode",
-      "editor.formatOnSave": true,
+      "editor.formatOnSave": false,
     },
   },
   "extensions": {
