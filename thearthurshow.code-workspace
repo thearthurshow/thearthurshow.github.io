@@ -1,8 +1,19 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": ".",
+    },
+  ],
+  "settings": {
+    "files.associations": {
+      "_includes/css/*.css": "liquid",
+    },
+    "[liquid]": {
+      "editor.defaultFormatter": "Shopify.theme-check-vscode",
+      "editor.formatOnSave": true,
+    },
+  },
+  "extensions": {
+    "recommendations": ["Shopify.theme-check-vscode", "esbenp.prettier-vscode"],
+  },
 }
