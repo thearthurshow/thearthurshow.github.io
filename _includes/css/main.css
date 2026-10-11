@@ -291,6 +291,22 @@ section.success {
     }
 }
 
+.other-games-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px 24px;
+  width: 100%;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.games-contact {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 20px;
+}
+
 /* Flexbox Portfolio Grid */
 @media (min-width: 640px) {
     .portfolio-flex-grid .portfolio-flex-row {
@@ -304,6 +320,12 @@ section.success {
         flex: 1 0 49%;
         max-width: 49%;
     }
+}
+
+@media (max-width: 480px) {
+  .other-games-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 @media (min-width: 960px) {
