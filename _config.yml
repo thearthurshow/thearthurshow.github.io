@@ -62,7 +62,7 @@ address:
   - line: or remotely anywhere.
 
 # Credits content
-credits: 'Site created by @junefish using the theme <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a>.  <a target="_blank" href="https://icons8.com/icon/gDI9OczF2khm/dice">Dice</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>.'
+credits: 'Site created by @junefish using the theme <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a>.  <a target="_blank" href="https://icons8.com/icon/7Ckr0P8cnxFO/dice">Dice</a> favicon by <a target="_blank" href="https://icons8.com">Icons8</a>.'
 
 # Build settings
 markdown: kramdown
