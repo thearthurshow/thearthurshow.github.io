@@ -87,8 +87,8 @@ header {
 }
 
 header .container {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 75px;
+    padding-bottom: 40px;
 }
 
 header img {
@@ -128,15 +128,15 @@ header .intro-text .subtitle {
 header .profile-image {
     display: block;
     width: 100%;
-    max-width: 200px;
+    max-width: 175px;
     height: auto;
     margin: 0 auto 20px;
 }
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 200px;
-        padding-bottom: 100px;
+        padding-top: 125px;
+        padding-bottom: 50px;
     }
 
     header .intro-text {
@@ -159,7 +159,7 @@ header .profile-image {
 }
 
     header .profile-image {
-        max-width: 300px;
+        max-width: 200px;
     }
 }
 
