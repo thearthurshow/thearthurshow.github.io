@@ -26,8 +26,9 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 1b4d3e # green
-  primary-rgb: "27,77,62"
+  # primary: 1b4d3e # green
+  primary: 0d261e # darker green
+  primary-rgb: "13,38,30"
   # secondary: 4c2882 # violet
   secondary: 200934 # business card match
   secondary-light: 8878c3 # ube
