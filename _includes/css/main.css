@@ -81,9 +81,11 @@ hr.star-primary:after {
 }
 
 header {
-    text-align: center;
-    color: #fff;
-    background: #{{ site.color.primary }};
+  text-align: center;
+  color: #fff;
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
+    url("{{ site.header.image | relative_url }}") center / cover no-repeat;
 }
 
 header .container {

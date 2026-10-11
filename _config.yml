@@ -32,6 +32,10 @@ color:
   secondary: 200934 # business card match
   secondary-light: 8878c3 # ube
 
+# Header settings
+header:
+  image: img/header.webp
+
 # Footer settings
 footer:
   copyright: Arthur Velwest
