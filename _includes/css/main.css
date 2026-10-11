@@ -307,6 +307,18 @@ section.success {
   margin-top: 20px;
 }
 
+.review-text {
+  text-align: justify;
+  font-style: italic;
+  margin-bottom: 0px;
+}
+
+.reviewer-name {
+  text-align: right;
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+
 /* Flexbox Portfolio Grid */
 @media (min-width: 640px) {
     .portfolio-flex-grid .portfolio-flex-row {
