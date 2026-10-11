@@ -450,6 +450,17 @@ footer .footer-col {
     margin-bottom: 50px;
 }
 
+footer .footer-col a {
+    color: #fff;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+footer .footer-col a:hover,
+footer .footer-col a:focus-visible {
+    color: #ffdf6b;
+}
+
 footer .footer-below {
     padding: 25px 0;
     background-color: #{{ site.color.secondary-light }};
