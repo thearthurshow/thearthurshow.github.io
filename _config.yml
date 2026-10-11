@@ -41,12 +41,19 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
+    style: brands
     url: https://instagram.com/thearthursh0w
+  - title: itch-io
+    style: brands
+    url: https://thearthurshow.itch.io
+  - title: dice-d20
+    style: solid
+    url: https://app.roll20.net/users/5110155/arthur-v
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Play in person in Jersey City or NYC,
-  - line: or remotely anywhere via Roll20.
+  - line: or remotely anywhere.
 
 # Credits content
 credits: 'Site created by @junefish using the theme <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a>.'
