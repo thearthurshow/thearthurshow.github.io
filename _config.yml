@@ -28,8 +28,9 @@ contact: static
 color:
   primary: 1b4d3e # green
   primary-rgb: "27,77,62"
-  secondary: 4c2882 # violet
-  secondary-dark: 8878c3 # ube
+  # secondary: 4c2882 # violet
+  secondary: 200934 # business card match
+  secondary-light: 8878c3 # ube
 
 # Footer settings
 footer:
