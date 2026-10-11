@@ -128,7 +128,7 @@ header .intro-text .subtitle {
 header .profile-image {
     display: block;
     width: 100%;
-    max-width: 175px;
+    max-width: 200px;
     height: auto;
     margin: 0 auto 20px;
 }
@@ -159,7 +159,7 @@ header .profile-image {
 }
 
     header .profile-image {
-        max-width: 200px;
+        max-width: 250px;
     }
 }
 
